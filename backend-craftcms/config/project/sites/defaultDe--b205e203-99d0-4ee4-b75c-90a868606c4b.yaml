@@ -1,0 +1,9 @@
+baseUrl: $SITE_URL_DE
+enabled: '1'
+handle: defaultDe
+hasUrls: true
+language: de
+name: 'Baukasten (de)'
+primary: false
+siteGroup: 2bc1feee-cfc8-48ee-bace-f101e7f41ac9 # Default
+sortOrder: 2
